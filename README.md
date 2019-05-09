@@ -1,11 +1,10 @@
 # keys-bindings-sublime-text-3
 ### Essential keybindings for sublime text editor
 
-
 #### Usage:
   
-  You have to change these files on "sublime_text\Data\Packages\User" folder.
-
+  Replace "Default (Windows).sublime-keymap" file into the "sublime_text\Data\Packages\User" folder.
+  Add others macro files into the same folder.
 
 #### Features:
 
