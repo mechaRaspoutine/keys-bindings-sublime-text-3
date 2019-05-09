@@ -1,6 +1,7 @@
 # keys-bindings-sublime-text-3
 usefull keybindings for sublime text editor
 
+
 Usage:
   
   You have to change these files on "sublime_text\Data\Packages\User" folder.
