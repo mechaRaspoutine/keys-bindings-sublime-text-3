@@ -11,11 +11,11 @@
   { "keys": ["ctrl+9"], "command": "select_by_index", "args":{"index":8} },
   { "keys": ["ctrl+0"], "command": "select_by_index", "args":{"index":9} },
   
-  // some keyboards need ["ctrl+."] instead of ["ctrl+;"]
+  // you can change ["ctrl+."] by ["ctrl+;"] (it depends on the keyboard)
   { "keys": ["ctrl+;"], "command": "run_macro_file", "args": {"file": "Packages/User/EndOfLineSemicolon.sublime-macro"} },
   { "keys": ["ctrl+,"], "command": "run_macro_file", "args": {"file": "Packages/User/EndOfLineComa.sublime-macro"} },
   
-  // some keyboards need ["ctrl+."] instead of ["ctrl+;"]
+  // you can change ["ctrl+."] by ["ctrl+;"] (it depends on the keyboard)
   { "keys": ["ctrl+alt+;"], "command": "run_macro_file", "args": {"file": "Packages/User/EndOfLineSemicolonNewLine.sublime-macro"} },
   { "keys": ["ctrl+alt+,"], "command": "run_macro_file", "args": {"file": "Packages/User/EndOfLineComaNewLine.sublime-macro"} },
 ]
