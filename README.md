@@ -3,7 +3,7 @@
 
 #### Usage:
   
-  Replace "Default (Windows).sublime-keymap" file into the "sublime_text\Data\Packages\User" folder.
+  [b]Replace[/b] "Default (Windows).sublime-keymap" file into the "sublime_text\Data\Packages\User" folder.  
   Add others macro files into the same folder.
 
 #### Features:
