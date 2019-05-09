@@ -1,17 +1,9 @@
 [
 	{
-		"args":
-		{
-			"extend": false,
-			"to": "eol"
-		},
+		"args": { "extend": false, "to": "eol" },
 		"command": "move_to"
-	},
-	{
-		"args":
-		{
-			"characters": ","
-		},
+	}, {
+		"args": { "characters": "," },
 		"command": "insert"
 	}
 ]
